@@ -1,4 +1,4 @@
-# PREDICTIVE_ANALYSIS
+# PREDICTIVE_ANALYSIS_CLUSTERING_ASSIGNMENT
 Comparative Analysis of Clustering Algorithms
 This repository contains a comprehensive analysis of different clustering algorithms using various pre-processing techniques and evaluation metrics.
 Project Overview
